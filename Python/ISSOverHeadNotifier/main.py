@@ -6,8 +6,8 @@ import time
 
 MY_LAT = 15.808341026306152  # Your latitude
 MY_LONG = 80.16494750976562  # Your longitude
-my_email = "testudemy0511@gmail.com"
-password = "Mansoor@6677"
+my_email = MAIL
+password = PASSWORD
 
 
 # Getting Position of ISS
